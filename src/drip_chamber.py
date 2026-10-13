@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: CC0-1.0
 """Parametric IV infusion drip chamber (gravity macrodrip set, ISO 8536-4 style).
 
 Same geometry as onshape/iv_drip_chamber.fs. Units mm, axis Z, spike up,

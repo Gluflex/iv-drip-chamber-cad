@@ -17,7 +17,7 @@ Use them as reference geometry for clamps, drop sensors, holders and enclosures 
 - [Repository layout](#repository-layout)
 - [Limitations](#limitations)
 - [Contributing](#contributing)
-- [License and credit](#license-and-credit)
+- [License](#license)
 
 ## Download
 
@@ -161,11 +161,10 @@ Measurements of real drip chambers are the most useful contribution: outer diame
 
 [Dripito](https://github.com/Gluflex/iv-flow-monitor) is an open IV flow monitor that clips onto drip chambers of 14–24 mm, the range these models cover.
 
-## License and credit
+## License
 
-© 2026 Leandro Catarci.
+Public domain. To the extent possible under law, Leandro Catarci has waived all copyright and related rights to this work under [CC0 1.0 Universal](LICENSE). This covers the models, the source code, the Onshape feature and the documentation.
 
-- Models and source (`models/`, `src/`, `onshape/`): [CERN-OHL-P v2](LICENSE-CERN-OHL-P-2.0.md)
-- Images and documentation: [CC BY 4.0](LICENSE-CC-BY-4.0.md)
+You may copy, modify, distribute and use everything here, commercially or not, without asking and without crediting anyone. A link back is appreciated but not required.
 
-When you use the models, credit "IV drip chamber CAD by Leandro Catarci" with a link to this repository.
+The models come without any warranty (see the license text).

@@ -1,7 +1,7 @@
 // IV drip chamber: parametric custom feature for Onshape.
 // Paste everything below these comment lines into a new Feature Studio, UNDER the two
 // lines Onshape generates itself ("FeatureScript NNNN;" and the common.fs import).
-// Same geometry as src/drip_chamber.py. Units mm, axis Z, spike up, chamber bottom at z = 0.
+// Same geometry as src/drip_chamber.py. Units mm, axis Z, spike up, chamber bottom at z = 0. Public domain (CC0 1.0).
 
 const DC_OD_BOUNDS = { (millimeter) : [12, 20, 40] } as LengthBoundSpec;
 const DC_WALL_BOUNDS = { (millimeter) : [0.5, 1, 3] } as LengthBoundSpec;
