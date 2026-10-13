@@ -23,7 +23,7 @@ The STEP files are assemblies with named, coloured parts. The STL is the device 
 
 ## Onshape
 
-ONSHAPE_LINK_PLACEHOLDER
+Open the [public Onshape document](https://cad.onshape.com/documents/036ee7c603fcfc9991b4e10a/w/f269ac826d1c214e2cdabac3/e/6dd47121a96d592e15f63fe8). Pick the diameter from the *Chamber outer diameter* list at the top of the feature tree, then right-click a part or the Part Studio tab and choose *Export* (STEP, STL, Parasolid and more). A free Onshape account is enough, no parametrising needed. To change other dimensions, use *Make a copy* and edit the feature.
 
 To use the feature in your own documents, create a Feature Studio, keep the two header lines Onshape generates, paste [`onshape/iv_drip_chamber.fs`](onshape/iv_drip_chamber.fs) below them and commit. *IV drip chamber* then appears at the right end of the Part Studio toolbar. Parameters: outer diameter (12–40 mm), wall, chamber length, drop former length, tubing length, fluid level.
 
