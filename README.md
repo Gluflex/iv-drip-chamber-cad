@@ -4,6 +4,9 @@ Ready-to-use 3D models of a gravity IV infusion drip chamber (macrodrip, 20 drop
 
 Use them as reference geometry for clamps, drop sensors, holders and enclosures that mount on a drip chamber, for fit checks, renders and teaching.
 
+> [!WARNING]
+> **Use at your own discretion.** These models are not verified against real drip chambers or any standard, and they are not for clinical use. Check every dimension that matters for your design against the set you actually use.
+
 ![The six published diameters](docs/lineup.png)
 
 ## Contents
@@ -151,6 +154,7 @@ docs/               preview images
 - The dimensions are typical values chosen to match common ISO 8536-4 style gravity sets. They are **not** measured from, or based on drawings of, any manufacturer's product. Measure the set you actually use before relying on a fit.
 - Real chambers are often slightly tapered or have a soft, flexible lower part; this model is a straight rigid tube.
 - The perforated disk stands in for the filter mesh, and the vent membrane is a plain disk.
+- **Not verified.** No dimension has been checked against a physical chamber, a manufacturer drawing or ISO 8536-4 itself. Use the models at your own discretion.
 - **Not for clinical use.** These models are reference geometry for design and education, not a medical device design.
 
 ## Contributing
